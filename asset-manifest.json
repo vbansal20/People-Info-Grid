@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/People-Info-Grid/static/css/main.77ddc4c2.css",
+    "main.js": "/People-Info-Grid/static/js/main.b7157b6a.js",
+    "static/js/787.93ea2752.chunk.js": "/People-Info-Grid/static/js/787.93ea2752.chunk.js",
+    "index.html": "/People-Info-Grid/index.html",
+    "main.77ddc4c2.css.map": "/People-Info-Grid/static/css/main.77ddc4c2.css.map",
+    "main.b7157b6a.js.map": "/People-Info-Grid/static/js/main.b7157b6a.js.map",
+    "787.93ea2752.chunk.js.map": "/People-Info-Grid/static/js/787.93ea2752.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ddc4c2.css",
+    "static/js/main.b7157b6a.js"
+  ]
+}
